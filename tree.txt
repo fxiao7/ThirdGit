@@ -1,0 +1,1 @@
+Random forest is a bunch of trees.
